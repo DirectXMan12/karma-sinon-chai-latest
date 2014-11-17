@@ -1,0 +1,7 @@
+*.log
+/doc
+/node_modules
+/lib
+*.swp
+*.swo
+*~

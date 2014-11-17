@@ -1,0 +1,31 @@
+{
+  "name": "karma-sinon-chai-latest",
+  "description": "The latest sinon-chai from NPM for Karma",
+  "keywords": [
+    "karma",
+    "karma-plugin",
+    "chai",
+    "mocha",
+    "should",
+    "sinon",
+    "sinon-chai"
+  ],
+  "version": "0.1.0",
+  "author": "Solly Ross <directxman12+github@gmail.com>",
+  "main": "./index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/directxman12/karma-sinon-chai-latest",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/directxman12/karma-sinon-chai-latest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/directxman12/karma-sinon-chai-latest/issues"
+  },
+  "peerDependencies": {
+    "chai": "*",
+    "sinon": "*",
+    "sinon-chai": "*",
+    "karma": ">=0.10.9"
+  }
+}
